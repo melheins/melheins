@@ -1,4 +1,14 @@
-### Hi there 👋
+## 👋 Hi, I’m Melanie Heins
+
+✨ Welcome to my page! ✨
+
+<p align="center">
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=melheins&hide=contribs&count_private=false&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melheins&layout=compact&theme=dark)
+  
+</p>
 
 <!--
 **melheins/melheins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
